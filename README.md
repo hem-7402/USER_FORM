@@ -18,5 +18,4 @@ It features:
 ## How to Run Locally
 
 1. **TAP_ON_LINK** this repository:
-   ```bash
-    [link](https://hem-7402.github.io/USER_FORM/)
+    [TAP](https://hem-7402.github.io/USER_FORM/)
