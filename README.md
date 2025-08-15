@@ -11,7 +11,7 @@ It features:
 ---
 
 ## Preview
-![Contact Form Screenshot](assets/right_img.png)
+![Contact Form Screenshot](assets/Capture.PNG)
 
 ---
 
