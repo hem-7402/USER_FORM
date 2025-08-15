@@ -1,16 +1,22 @@
-# Contact Form Website
+# Responsive Contact Form
 
-This is a simple responsive contact form built with **HTML**, **CSS**, and integrated with [Web3Forms](https://web3forms.com/) for form submissions.
+This project is a responsive contact form built using **HTML5** and **CSS3** with [Web3Forms](https://web3forms.com/) integration for backend submissions.  
 
-## Features
-- Responsive design with mobile-friendly layout.
-- Custom styling using `Outfit` Google Font.
-- Gradient background for a modern look.
-- Form includes:
-  - Name field
-  - Email field
-  - Message textarea
-  - Submit button with icon
-- Web3Forms integration (no backend required).
+It features:
+- Modern gradient background.
+- Stylish input fields and buttons.
+- Responsive layout that adapts to mobile screens.
+- Right-side image for desktop view.
 
-## Project Structure
+---
+
+## Preview
+![Contact Form Screenshot](assets/right_img.png)
+
+---
+
+## How to Run Locally
+
+1. **Download or Clone** this repository:
+   ```bash
+   git clone https://hem-7402.github.io/USER_FORM/
