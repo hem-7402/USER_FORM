@@ -17,6 +17,6 @@ It features:
 
 ## How to Run Locally
 
-1. **Download or Clone** this repository:
+1. **TAP_ON_LINK** this repository:
    ```bash
    git clone https://hem-7402.github.io/USER_FORM/
